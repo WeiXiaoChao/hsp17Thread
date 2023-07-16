@@ -1,6 +1,6 @@
 package study.runnable;
 
-// GitBranch: hot-fix
+// GitBranch: master
 /**
  * @author Casey Gao
  * @version 1.0
