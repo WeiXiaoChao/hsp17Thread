@@ -1,6 +1,6 @@
 package study.runnable;
 
-// GitBranch: master
+// GitBranch: master but hot-fix merge into master
 /**
  * @author Casey Gao
  * @version 1.0
