@@ -14,6 +14,7 @@ public class ImitateRunnablePractice {
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
+        // 上边执行结束，才执行该句话
         System.out.println("主线程要退出了！！！！");
     }
 }
